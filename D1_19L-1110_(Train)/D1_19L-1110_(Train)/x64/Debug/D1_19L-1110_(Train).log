@@ -1,0 +1,268 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2084,5): warning MSB3245: Could not resolve this reference. Could not locate the assembly "Microsoft.VisualBasic.PowerPacks.Vs". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors.
+  bogieDetails.cpp
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,47): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,79): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,47): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,69): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,71): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,1): error C2061: syntax error: identifier 'ShapeContainer'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,66): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,1): error C2061: syntax error: identifier 'LineShape'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(198,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(199,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(200,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,98): error C2039: 'Shape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2065: 'Shape': undeclared identifier
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2059: syntax error: '>'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,118): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C3321: an initializer list is unexpected in this context
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2726: 'gcnew' may only be used to create an object with managed type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(202,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(203,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(204,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(208,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(209,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(210,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(211,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(212,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(857,30): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+  bogieIDForm.cpp
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\adultsInfo.h(297,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\adultsInfo.h(299,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\kidsInfo.h(243,98): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\kidsInfo.h(245,98): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(204,141): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(204,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(229,129): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(229,96): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,47): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,79): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,47): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,69): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,71): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,1): error C2061: syntax error: identifier 'ShapeContainer'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,66): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,1): error C2061: syntax error: identifier 'LineShape'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(198,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(199,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(200,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,98): error C2039: 'Shape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2065: 'Shape': undeclared identifier
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2059: syntax error: '>'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,118): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C3321: an initializer list is unexpected in this context
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2726: 'gcnew' may only be used to create an object with managed type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(202,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(203,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(204,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(208,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(209,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(210,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(211,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(212,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(857,30): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+  main.cpp
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\adultsInfo.h(297,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\adultsInfo.h(299,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\kidsInfo.h(243,98): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\kidsInfo.h(245,98): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(204,141): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(204,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(229,129): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(229,96): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,47): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,79): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,47): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,69): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,71): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,1): error C2061: syntax error: identifier 'ShapeContainer'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,66): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,1): error C2061: syntax error: identifier 'LineShape'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(198,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(199,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(200,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,98): error C2039: 'Shape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2065: 'Shape': undeclared identifier
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2059: syntax error: '>'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,118): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C3321: an initializer list is unexpected in this context
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2726: 'gcnew' may only be used to create an object with managed type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(202,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(203,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(204,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(208,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(209,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(210,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(211,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(212,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(857,30): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\trainBogies.h(54,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  mainMenuForm.cpp
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\adultsInfo.h(297,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\adultsInfo.h(299,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\kidsInfo.h(243,98): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\kidsInfo.h(245,98): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(204,141): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(204,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(229,129): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\passengersDetails.h(229,96): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,47): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(107,79): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,35): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,47): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C2143: syntax error: missing ';' before '^'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(108,69): error C2238: unexpected token(s) preceding ';'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,59): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,71): error C2039: 'ShapeContainer': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(127,1): error C2061: syntax error: identifier 'ShapeContainer'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,54): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,66): error C2039: 'LineShape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(128,1): error C2061: syntax error: identifier 'LineShape'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(198,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(199,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(200,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C2039: 'PowerPacks': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,86): error C3083: 'PowerPacks': the symbol to the left of a '::' must be a type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,98): error C2039: 'Shape': is not a member of 'Microsoft::VisualBasic'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2065: 'Shape': undeclared identifier
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2059: syntax error: '>'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,118): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C3321: an initializer list is unexpected in this context
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(201,1): error C2726: 'gcnew' may only be used to create an object with managed type
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(202,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(203,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(204,10): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(208,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(209,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(210,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(211,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(212,10): error C2039: 'lineShape1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(857,30): error C2039: 'shapeContainer1': is not a member of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\bogieDetails.h(22): message : see declaration of 'D1_19L1110_Train::bogieDetails'
+D:\FAST NUCES\My Programs\Semester-2\OOP Classroom\D1_19L-1110_(Train)\D1_19L-1110_(Train)\trainBogies.h(54,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
